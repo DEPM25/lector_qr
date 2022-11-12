@@ -1,0 +1,9 @@
+<resources>
+  <string name="app_name">Lector QR</string>
+  <string name="hint_username">Usuario</string>
+  <string name="hint_password">Contraseña</string>
+  <string name="button_sign_in">Iniciar Sesión</string>
+
+  <string name="text_signin_message">Bienvenido Usuario</string>
+
+</resources>
